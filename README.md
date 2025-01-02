@@ -80,9 +80,18 @@ return [
 ];
 ```
 
-4.	**Veritabanını Ayarlayın**
+4.	**Veritabanı Tablosunu Oluşturun:**
 
-phpMyAdmin veya MySQL kullanarak php_test_db adında bir veritabanı oluşturun.
+Proje ile birlikte gelen SQL dosyasını kullanarak yada aşağıda ki script ile veritabanı tablosunu oluşturabilirsiniz:
+
+```bash
+CREATE TABLE tasks (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    title VARCHAR(255) NOT NULL,
+    description TEXT,
+    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+);
+```
 	
 5.	**Sanal Domain Ayarı**
 
