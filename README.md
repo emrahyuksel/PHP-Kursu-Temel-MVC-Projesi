@@ -1,3 +1,29 @@
+# PHP Kursu: Sıfırdan İleri Seviyeye Web Geliştirme (OOP + MVC) 🚀
+
+PHP dünyasında uzmanlaşmak mı istiyorsunuz? İşte size harika bir fırsat! 🌟
+
+Bu kurs, **PHP’nin temellerinden** başlayarak, **Nesne Yönelimli Programlama (OOP)** ve **MVC yapısına** kadar tüm modern geliştirme tekniklerini kapsıyor. Üstelik, eğitim boyunca uygulamalı projelerle öğrendiklerinizi pekiştireceksiniz.
+
+## 🎯 Kurs İçeriği:
+
+- PHP’nin Temelleri: **Sıfırdan başlamak isteyenler için ideal.**
+- Nesne Yönelimli Programlama (OOP): **Kodunuzu daha modüler ve sürdürülebilir hale getirin.**
+- MVC Yapısı: **Kendi web uygulamanız için temel oluşturun.**
+- Uygulamalı Projeler: **Gerçek hayattan örneklerle öğrenin.**
+
+## 📘 Bonus: Ücretsiz 250 Sayfalık PHP Dokümantasyon Kitabı!
+
+Kursumuza kayıt olan tüm öğrenciler, **detaylı dokümanlar ve kurs boyunca kullanılan örnek kodları** içeren özel bir **250 sayfalık PHP kitabına ücretsiz** sahip olacak!
+
+📌 **İndirimli kayıt kodlarını** görmek ve kursa erişim sağlamak için [emrahyuksel.com.tr](https://emrahyuksel.com.tr) adresini ziyaret edin. 
+
+🔗 **Kursa kaydolmak için buraya tıklayın**:  
+[PHP Kursu: Sıfırdan İleri Seviyeye Web Geliştirme (OOP + MVC)](https://www.udemy.com/course/sifirdan-ileri-seviye-web-programlama-html-php-pdo-mysql/?referralCode=57C2FC2F2B3FA58ED9BB)
+
+🎓 Yazılım kariyerinize sağlam bir başlangıç yapmak için daha fazla beklemeyin! 
+
+# KURULUM
+
 # PHP Kursu: Temel MVC Projesi
 
 Bu proje, **PHP Kursu** kapsamında geliştirilmiş bir **Temel MVC Yapısı** içermektedir. PHP'de **Model-View-Controller (MVC)** prensiplerini öğrenmek isteyenler için harika bir başlangıç noktasıdır.
