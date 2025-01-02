@@ -1,0 +1,16 @@
+{
+    "name": "emrahyuksel/mvc",
+    "description": "Mvc Yapısı",
+    "type": "project",
+    "autoload": {
+    "psr-4": {
+      "App\\": "app/"
+    }
+  },
+    "authors": [
+        {
+            "name": "Emrah Yüksel"
+        }
+    ],
+    "require": {}
+}
